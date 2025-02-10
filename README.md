@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://carritocomprasjavascript.netlify.app/" target="_blank">
-Netlify
+<img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
 <p>Carrito de compras realizado con HTML, CSS y JavaScript con la persistencia de datos de localStorage</p>
