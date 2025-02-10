@@ -33,32 +33,24 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Menú lateral desplegable</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/GenaroParedes/menuLateral" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Proyecto menu lateral desplegable"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/GenaroParedes/menuLateral" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
+<a href="https://menudesplegableybarralateral.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Pagina responsive con menú desplegable para desktop y con barra lateral para mobile</p>
 </div>                                                             
 </table>                                                                                 
 </div>
 <br>
 
-<table>
-<tr>
-<td width="50%">
-
-                                                                                      
-</td>       
-
-<td width="50%">
 
                                                                                       
 </td>  
