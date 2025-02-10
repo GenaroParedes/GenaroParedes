@@ -19,11 +19,8 @@
 <div align="center">
 <a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank"><img src="https://hostingplus.ar/wp-content/uploads/2023/08/Importancia-del-carrito-de-compra.jpg" width="400" alt="Proyecto Carrito de compras"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
 <a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Carrito de compras realizado con HTML, CSS y JavaScript con la persistencia de datos de localStorage</p>
