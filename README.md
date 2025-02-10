@@ -5,21 +5,22 @@
 
 ## Sobre mi
 
-- Estudiante avanzado de ingenieria en sistemas
-- Desarrollador Web Frontend Jr
+- Estudiante avanzado de ingenieria en sistemas.
+- Desarrollador Web Frontend Jr.
 - Me considero una persona: Proactiva, responsable, comunicativa, trabajo en equipo.
+- Un apasionado por el mundo IT, con mucho estusiasmo y ganas por seguir aprendiendo mucho más.
 <br>
 
-## Proyectos *bombitas*
+## Proyectos
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Carrito de compras</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Proyecto carrito de compras"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank">
+<img src="https://hostingplus.ar/wp-content/uploads/2023/08/Importancia-del-carrito-de-compra.jpg">
 </a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
