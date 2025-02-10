@@ -17,7 +17,7 @@
 <td width="50%">
 <h3 align="center">Carrito de compras</h3>
 <div align="center">
-<a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank"><img src="https://res.cloudinary.com/dte7upwcr/image/upload/v1/blog/blog2/carrito-de-compras-ecommerce/carrito-de-compras-ecommerce-img_header.jpg" width="400" alt="Proyecto Carrito de compras"></a>
+<a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank"><img src="D:\LENOVO\DiseñoWeb\FrontendMentor\MenuDesplegableYBarraLateral\MenuDesplegable" width="400" alt="Proyecto Carrito de compras"></a>
 <p>
 <a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
