@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <span text='bold'>Genaro Paredes</span> 👋</h1>
 </div>
-<img src="https://noticias-ai.com/wp-content/uploads/2023/03/GitHub-inteligencia-artificial-1024x512.webp" heigth:100px>
+<img src="https://noticias-ai.com/wp-content/uploads/2023/03/GitHub-inteligencia-artificial-1024x512.webp" heigth:'100px'>
 
 ## Sobre mi
 
