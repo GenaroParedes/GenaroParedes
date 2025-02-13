@@ -13,84 +13,81 @@
 
 ## Proyectos
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">Carrito de compras</h3>
-<div align="center">
-<a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank"><img src="https://res.cloudinary.com/dte7upwcr/image/upload/v1/blog/blog2/carrito-de-compras-ecommerce/carrito-de-compras-ecommerce-img_header.jpg" width="400" alt="Proyecto Carrito de compras"></a>
-<p>
-<a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://carritocomprasjavascript.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Carrito de compras realizado con HTML, CSS y JavaScript con la persistencia de datos de localStorage</p>
-</div>
-                                                                                      
-</td>
-
-<td width="50%">
-               <br>
-<h3 align="center">Menú lateral desplegable</h3>
-<div align="center">                                       
-<a href="https://github.com/GenaroParedes/menuLateral" target="_blank"><img src="https://ovdivi.com/wp-content/uploads/2023/05/menu-sidebar-divi-wordpress_ov-divi.jpg" width="400" alt="Proyecto menu lateral desplegable"></a>
-<br>
-<p>
-<a href="https://github.com/GenaroParedes/menuLateral" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://menudesplegableybarralateral.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
-</p>Pagina responsive con menú desplegable para desktop y con barra lateral para mobile</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
-
-
-                                                                                      
-</td>  
+  <tr>
+    <td>
+      <h3 align="center">Carrito de compras</h3>
+      <div align="center">
+        <a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank">
+          <img src="https://res.cloudinary.com/dte7upwcr/image/upload/v1/blog/blog2/carrito-de-compras-ecommerce/carrito-de-compras-ecommerce-img_header.jpg" width="400" alt="Proyecto Carrito de compras">
+        </a>
+        <p>
+          <a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://carritocomprasjavascript.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=fbfc40">
+          </a>
+        </p>
+        <p>Carrito de compras realizado con HTML, CSS y JavaScript con la persistencia de datos de localStorage</p>
+      </div>
+    </td>
+    <td>
+      <h3 align="center">Menú lateral desplegable</h3>
+      <div align="center">
+        <a href="https://github.com/GenaroParedes/menuLateral" target="_blank">
+          <img src="https://ovdivi.com/wp-content/uploads/2023/05/menu-sidebar-divi-wordpress_ov-divi.jpg" width="400" alt="Proyecto menú lateral desplegable">
+        </a>
+        <p>
+          <a href="https://github.com/GenaroParedes/menuLateral" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://menudesplegableybarralateral.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=3fFD7f">
+          </a>
+        </p>
+        <p>Página responsive con menú desplegable para desktop y con barra lateral para mobile</p>
+      </div>
+    </td>
+  </tr>
 </table>
 
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">Carrito de compras</h3>
-<div align="center">
-<a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank"><img src="https://res.cloudinary.com/dte7upwcr/image/upload/v1/blog/blog2/carrito-de-compras-ecommerce/carrito-de-compras-ecommerce-img_header.jpg" width="400" alt="Proyecto Carrito de compras"></a>
-<p>
-<a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://carritocomprasjavascript.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Carrito de compras realizado con HTML, CSS y JavaScript con la persistencia de datos de localStorage</p>
-</div>
-                                                                                      
-</td>
-<tr>
-<td width="50%">
-<h3 align="center">Carrito de compras</h3>
-<div align="center">
-<a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank"><img src="https://res.cloudinary.com/dte7upwcr/image/upload/v1/blog/blog2/carrito-de-compras-ecommerce/carrito-de-compras-ecommerce-img_header.jpg" width="400" alt="Proyecto Carrito de compras"></a>
-<p>
-<a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://carritocomprasjavascript.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Carrito de compras realizado con HTML, CSS y JavaScript con la persistencia de datos de localStorage</p>
-</div>
-                                                                                      
-</td>
+  <tr>
+    <td>
+      <h3 align="center">Carrito de compras</h3>
+      <div align="center">
+        <a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank">
+          <img src="https://res.cloudinary.com/dte7upwcr/image/upload/v1/blog/blog2/carrito-de-compras-ecommerce/carrito-de-compras-ecommerce-img_header.jpg" width="400" alt="Proyecto Carrito de compras">
+        </a>
+        <p>
+          <a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://carritocomprasjavascript.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=fbfc40">
+          </a>
+        </p>
+        <p>Carrito de compras realizado con HTML, CSS y JavaScript con la persistencia de datos de localStorage</p>
+      </div>
+    </td>
+    <td>
+      <h3 align="center">Menú lateral desplegable</h3>
+      <div align="center">
+        <a href="https://github.com/GenaroParedes/menuLateral" target="_blank">
+          <img src="https://ovdivi.com/wp-content/uploads/2023/05/menu-sidebar-divi-wordpress_ov-divi.jpg" width="400" alt="Proyecto menú lateral desplegable">
+        </a>
+        <p>
+          <a href="https://github.com/GenaroParedes/menuLateral" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://menudesplegableybarralateral.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=3fFD7f">
+          </a>
+        </p>
+        <p>Página responsive con menú desplegable para desktop y con barra lateral para mobile</p>
+      </div>
+    </td>
+  </tr>
 </table>
 
 
