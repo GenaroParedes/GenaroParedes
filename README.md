@@ -56,7 +56,7 @@
 </td>  
 </table>
 
-<table>
+<table width="50%>
 <tr>
 <td width="50%">
 <h3 align="center">Carrito de compras</h3>
