@@ -57,7 +57,7 @@
       <h3 align="center">CRUD Clientes</h3>
       <div align="center">
         <a href="https://github.com/GenaroParedes/CrudClientes" target="_blank">
-          <img src="https://i.ytimg.com/vi/kH4UbdlBZHs/sddefault.jpg" width="400" alt="Proyecto CRUD clientes">
+          <img src="https://mercadoonlinedigital.com/wp-content/uploads/2023/08/crud.png" width="400" alt="Proyecto CRUD clientes">
         </a>
         <p>
           <a href="https://github.com/GenaroParedes/CrudClientes" target="_blank">
