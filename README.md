@@ -57,7 +57,7 @@
       <h3 align="center">CRUD Clientes</h3>
       <div align="center">
         <a href="https://github.com/GenaroParedes/CrudClientes" target="_blank">
-          <img src="https://lab.wallarm.com/wp-content/uploads/2024/07/189-Preview-1.jpg" width="400" alt="Proyecto CRUD clientes">
+          <img src="https://i.ytimg.com/vi/qVBAM-eBPh0/maxresdefault.jpg" width="400" alt="Proyecto CRUD clientes">
         </a>
         <p>
           <a href="https://github.com/GenaroParedes/CrudClientes" target="_blank">
