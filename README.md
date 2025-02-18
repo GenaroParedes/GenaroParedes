@@ -18,7 +18,7 @@
       <h3 align="center">Carrito de compras</h3>
       <div align="center">
         <a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank">
-          <img src="https://res.cloudinary.com/dte7upwcr/image/upload/v1/blog/blog2/carrito-de-compras-ecommerce/carrito-de-compras-ecommerce-img_header.jpg" width="400" alt="Proyecto Carrito de compras">
+          <img src="https://res.cloudinary.com/dte7upwcr/image/upload/v1/blog/blog2/carrito-de-compras-ecommerce/carrito-de-compras-ecommerce-img_header.jpg" width="300" alt="Proyecto Carrito de compras">
         </a>
         <p>
           <a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank">
@@ -35,7 +35,7 @@
       <h3 align="center">Menú lateral desplegable</h3>
       <div align="center">
         <a href="https://github.com/GenaroParedes/menuLateral" target="_blank">
-          <img src="https://ovdivi.com/wp-content/uploads/2023/05/menu-sidebar-divi-wordpress_ov-divi.jpg" width="400" alt="Proyecto menú lateral desplegable">
+          <img src="https://ovdivi.com/wp-content/uploads/2023/05/menu-sidebar-divi-wordpress_ov-divi.jpg" width="300" alt="Proyecto menú lateral desplegable">
         </a>
         <p>
           <a href="https://github.com/GenaroParedes/menuLateral" target="_blank">
@@ -57,7 +57,7 @@
       <h3 align="center">CRUD Clientes</h3>
       <div align="center">
         <a href="https://github.com/GenaroParedes/CrudClientes" target="_blank">
-          <img src="https://mercadoonlinedigital.com/wp-content/uploads/2023/08/crud.png" width="400" alt="Proyecto CRUD clientes">
+          <img src="https://mercadoonlinedigital.com/wp-content/uploads/2023/08/crud.png" width="300" alt="Proyecto CRUD clientes">
         </a>
         <p>
           <a href="https://github.com/GenaroParedes/CrudClientes" target="_blank">
@@ -74,7 +74,7 @@
       <h3 align="center">Turnero Veterinaria</h3>
       <div align="center">
         <a href="https://github.com/GenaroParedes/TurneroVeterinaria" target="_blank">
-          <img src="https://www.shutterstock.com/image-illustration/crud-acronym-create-read-update-600nw-2491959959.jpg" width="400" alt="Proyecto menú lateral desplegable">
+          <img src="https://www.shutterstock.com/image-illustration/crud-acronym-create-read-update-600nw-2491959959.jpg" width="300" alt="Proyecto menú lateral desplegable">
         </a>
         <p>
           <a href="https://github.com/GenaroParedes/TurneroVeterinaria" target="_blank">
