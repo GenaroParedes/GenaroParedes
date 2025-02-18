@@ -74,7 +74,7 @@
       <h3 align="center">Turnero Veterinaria</h3>
       <div align="center">
         <a href="https://github.com/GenaroParedes/TurneroVeterinaria" target="_blank">
-          <img src="https://veterinariaotero.com.ar/site3/wp-content/uploads/2021/10/Logo-retina.png" width="400" height="400" alt="Proyecto menú lateral desplegable">
+          <img src="https://veterinariaotero.com.ar/site3/wp-content/uploads/2021/10/Logo-retina.png" width="400" height="350" alt="Proyecto menú lateral desplegable">
         </a>
         <p>
           <a href="https://github.com/GenaroParedes/TurneroVeterinaria" target="_blank">
