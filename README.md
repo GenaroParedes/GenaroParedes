@@ -56,7 +56,8 @@
     <td>
       <h3 align="center">Carrito de compras</h3>
       <div align="center">
-        <a href="https://github.com/GenaroParedes/CrudClientes" target="_blank">
+        <a href="![CRUDClientes](https://github.com/user-attachments/assets/77ea63fa-6e8e-48b1-a821-f1dd9bcb4533)
+" target="_blank">
           <img src="C:\Users\Admin\Downloads\CRUDCliente.png" width="400" alt="Proyecto CRUD clientes">
         </a>
         <p>
