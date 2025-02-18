@@ -18,7 +18,7 @@
       <h3 align="center">Carrito de compras</h3>
       <div align="center">
         <a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank">
-          <img src="https://res.cloudinary.com/dte7upwcr/image/upload/v1/blog/blog2/carrito-de-compras-ecommerce/carrito-de-compras-ecommerce-img_header.jpg" width="400" alt="Proyecto Carrito de compras">
+          <img src="https://res.cloudinary.com/dte7upwcr/image/upload/v1/blog/blog2/carrito-de-compras-ecommerce/carrito-de-compras-ecommerce-img_header.jpg" width="400" height="300" alt="Proyecto Carrito de compras">
         </a>
         <p>
           <a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank">
@@ -57,7 +57,7 @@
       <h3 align="center">CRUD Clientes</h3>
       <div align="center">
         <a href="https://github.com/GenaroParedes/CrudClientes" target="_blank">
-          <img src="https://mercadoonlinedigital.com/wp-content/uploads/2023/08/crud.png" width="400" alt="Proyecto CRUD clientes">
+          <img src="https://mercadoonlinedigital.com/wp-content/uploads/2023/08/crud.png" width="400" height="300" alt="Proyecto CRUD clientes">
         </a>
         <p>
           <a href="https://github.com/GenaroParedes/CrudClientes" target="_blank">
