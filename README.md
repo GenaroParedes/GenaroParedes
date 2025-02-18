@@ -56,35 +56,35 @@
     <td>
       <h3 align="center">CRUD Clientes</h3>
       <div align="center">
-        <a href="https://lab.wallarm.com/wp-content/uploads/2024/07/189-Preview-1.jpg" target="_blank">
+        <a href="https://github.com/GenaroParedes/CrudClientes" target="_blank">
           <img src="https://lab.wallarm.com/wp-content/uploads/2024/07/189-Preview-1.jpg" width="400" alt="Proyecto CRUD clientes">
         </a>
         <p>
-          <a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank">
+          <a href="https://github.com/GenaroParedes/CrudClientes" target="_blank">
             <img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="https://carritocomprasjavascript.netlify.app/" target="_blank">
+          <a href="https://crudclientesindexeddb.netlify.app/" target="_blank">
             <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=fbfc40">
           </a>
         </p>
-        <p>Carrito de compras realizado con HTML, CSS y JavaScript con la persistencia de datos de localStorage</p>
+        <p>CRUD Clientes trabajando con HTML, CSS(TailwindCSS), JavaScript, como base de datos utilicé IndexedDB del navegador</p>
       </div>
     </td>
     <td>
-      <h3 align="center">Menú lateral desplegable</h3>
+      <h3 align="center">Turnero Veterinaria</h3>
       <div align="center">
-        <a href="https://github.com/GenaroParedes/menuLateral" target="_blank">
-          <img src="https://ovdivi.com/wp-content/uploads/2023/05/menu-sidebar-divi-wordpress_ov-divi.jpg" width="400" alt="Proyecto menú lateral desplegable">
+        <a href="https://github.com/GenaroParedes/TurneroVeterinaria" target="_blank">
+          <img src="https://veterinariaotero.com.ar/site3/wp-content/uploads/2021/10/Logo-retina.png" width="400" alt="Proyecto menú lateral desplegable">
         </a>
         <p>
-          <a href="https://github.com/GenaroParedes/menuLateral" target="_blank">
+          <a href="https://github.com/GenaroParedes/TurneroVeterinaria" target="_blank">
             <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="https://menudesplegableybarralateral.netlify.app/" target="_blank">
+          <a href="https://turneroveterinaria.netlify.app/" target="_blank">
             <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=3fFD7f">
           </a>
         </p>
-        <p>Página responsive con menú desplegable para desktop y con barra lateral para mobile</p>
+        <p>CRUD de turnos de mascotas para veterinaria trabajando con la base de datos del navegador IndexedDB</p>
       </div>
     </td>
   </tr>
