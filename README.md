@@ -54,10 +54,10 @@
 <table>
   <tr>
     <td>
-      <h3 align="center">Carrito de compras</h3>
+      <h3 align="center">CRUD Clientes</h3>
       <div align="center">
         <a href="https://lab.wallarm.com/wp-content/uploads/2024/07/189-Preview-1.jpg" target="_blank">
-          <img src="C:\Users\Admin\Downloads\CRUDCliente.png" width="400" alt="Proyecto CRUD clientes">
+          <img src="https://lab.wallarm.com/wp-content/uploads/2024/07/189-Preview-1.jpg" width="400" alt="Proyecto CRUD clientes">
         </a>
         <p>
           <a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank">
