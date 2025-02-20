@@ -11,6 +11,7 @@
 🧑‍💻 &nbsp; Un apasionado por el mundo IT, con mucho estusiasmo y ganas de seguir aprendiendo. <br>
 🌱 &nbsp; Abierto a nuevas oportunidades.
 <br>
+<br>
 
 <h2>💻  Skills</h2>
 <div style="display:flex; flex-wrap:wrap;">
@@ -29,6 +30,7 @@
 </div>
 
 
+<br>
 <br>
 <h2><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="40px"></picture> Github Stats</h2>
 <div>
