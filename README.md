@@ -6,9 +6,9 @@
 ## Sobre mi
 
 🎓 &nbsp; Estudiante avanzado de ingenieria en sistemas.
-- Desarrollador Web Frontend Jr.
-- Me considero una persona: Proactiva, responsable, comunicativa, trabajo en equipo.
-- Un apasionado por el mundo IT, con mucho estusiasmo y ganas de seguir aprendiendo.
+🧑‍💻 &nbsp; Desarrollador Web Frontend Jr.
+🤓 &nbsp; Me considero una persona proactiva, responsable, comunicativa, trabajo en equipo.
+🧑‍💻 &nbsp; Un apasionado por el mundo IT, con mucho estusiasmo y ganas de seguir aprendiendo. 
 <br>
 
 ## Proyectos
