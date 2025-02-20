@@ -28,6 +28,17 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge">
 </div>
 
+<h2><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="40px"></picture> Github Stats</h2>
+<div>
+  <a href="https://github.com/GenaroParedes">
+    <img src="https://github-readme-stats.vercel.app/api?username=GenaroParedes&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/GenaroParedes">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GenaroParedes&theme=material-palenight" alt="GitHub Streak Stats">
+  </a>
+</div>
+
+
 ## Proyectos
 <table>
   <tr>
