@@ -3,7 +3,7 @@
 </div>
 <img src="https://noticias-ai.com/wp-content/uploads/2023/03/GitHub-inteligencia-artificial-1024x512.webp" heigth:'100px'>
 
-<h2><picture><img src="https://user-images.githubusercontent.com/61582763/114278235-7d2e7000-9a03-11eb-8b8a-248cb1d58d5f.png" width="40px"></picture> About Me</h2>
+** Sobre mi
 
 🎓 &nbsp; Estudiante avanzado de ingenieria en sistemas. <br>
 🧑‍💻 &nbsp; Desarrollador Web Frontend Jr. <br>
