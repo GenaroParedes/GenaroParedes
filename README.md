@@ -13,7 +13,7 @@
 <br>
 
 <h2>💻  Skills</h2>
-![JavaScript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54)
+(https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54)
 
 ## Proyectos
 <table>
