@@ -35,9 +35,6 @@
   <a href="https://github.com/GenaroParedes">
     <img src="https://github-readme-stats.vercel.app/api?username=GenaroParedes&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats">
   </a>
-  <a href="https://github.com/GenaroParedes">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GenaroParedes&theme=material-palenight" >
-  </a>
 </div>
 
 ## Proyectos
