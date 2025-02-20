@@ -5,6 +5,7 @@
 
 <h2><picture><img src="https://www.klipartz.com/es/sticker-png-pswcd" width="40px"></picture> About Me</h2>
 
+
 🎓 &nbsp; Estudiante avanzado de ingenieria en sistemas. <br>
 🧑‍💻 &nbsp; Desarrollador Web Frontend Jr. <br>
 🤓 &nbsp; Me considero una persona proactiva, responsable, comunicativa, trabajo en equipo. <br>
