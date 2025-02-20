@@ -3,7 +3,7 @@
 </div>
 <img src="https://noticias-ai.com/wp-content/uploads/2023/03/GitHub-inteligencia-artificial-1024x512.webp" heigth:'100px'>
 
-<h2><picture><img src="https://img.shields.io/badge/About_Me-4CAF50?style=for-the-badge&logo=about.me&logoColor=white" width="40px"></picture> About Me</h2>
+<h2><picture><img src="https://www.klipartz.com/es/sticker-png-pswcd" width="40px"></picture> About Me</h2>
 
 🎓 &nbsp; Estudiante avanzado de ingenieria en sistemas. <br>
 🧑‍💻 &nbsp; Desarrollador Web Frontend Jr. <br>
