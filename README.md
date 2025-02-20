@@ -29,8 +29,6 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge">
 </div>
 
-
-<br>
 <br>
 <h2><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="40px"></picture> Github Stats</h2>
 <div>
@@ -38,6 +36,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=GenaroParedes&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats">
   </a>
 </div>
+<br>
 
 ## Proyectos
 <table>
