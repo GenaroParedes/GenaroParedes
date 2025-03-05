@@ -101,7 +101,7 @@
       <h3 align="center">Turnero Veterinaria</h3>
       <div align="center">
         <a href="https://github.com/GenaroParedes/TurneroVeterinaria" target="_blank">
-          <img src="https://drive.google.com/drive/folders/1jkEGtj-ewu-Gs0nHmPC7IZwwVJxL8r3E?hl=es" width="400" height="350" alt="Proyecto menú lateral desplegable">
+          <img src="https://drive.google.com/file/d/1rV0-hSnPG_ecwroCSM_DXFUVRORSZplM/view?usp=sharing" width="400" height="350" alt="Proyecto menú lateral desplegable">
         </a>
         <p>
           <a href="https://github.com/GenaroParedes/TurneroVeterinaria" target="_blank">
