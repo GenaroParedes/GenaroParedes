@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
-<img src="https://img.shields.io/badge/Python-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Python Badge">
+<img src="https://img.shields.io/badge/Python-777BB4?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge">
 </div>
 
