@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <span text='bold'>Genaro Paredes</span> 👋</h1>
 </div>
-<img src="https://noticias-ai.com/wp-content/uploads/2023/03/GitHub-inteligencia-artificial-1024x512.webp" heigth:'100px'>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fjanpierrsanchez.medium.com%2F10-razones-para-usar-github-8bf088023ff7&psig=AOvVaw25Xsrm2rBcN_C-mJqZKtj2&ust=1743006219050000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDloqbSpYwDFQAAAAAdAAAAABAE" heigth:'100px'>
 
 <h2>🙋‍♂️ Sobre mi</h2>
 
