@@ -62,14 +62,14 @@
     <td>
       <h3 align="center">Menú lateral desplegable</h3>
       <div align="center">
-        <a href="https://github.com/GenaroParedes/menuLateral" target="_blank">
-          <img src="https://ovdivi.com/wp-content/uploads/2023/05/menu-sidebar-divi-wordpress_ov-divi.jpg" width="400" alt="Proyecto menú lateral desplegable">
+        <a href="https://github.com/GenaroParedes/ParedesTrade" target="_blank">
+          <img src="https://raw.githubusercontent.com/GenaroParedes/ParedesTrade/refs/heads/main/assets/images/LogoOpcion2.avif" width="400" alt="Proyecto Paredes Trade">
         </a>
         <p>
-          <a href="https://github.com/GenaroParedes/menuLateral" target="_blank">
+          <a href="https://github.com/GenaroParedes/ParedesTrade" target="_blank">
             <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="https://menudesplegableybarralateral.netlify.app/" target="_blank">
+          <a href="https://paredes-trade.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=3fFD7f">
           </a>
         </p>
