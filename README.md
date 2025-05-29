@@ -60,7 +60,7 @@
       </div>
     </td>
     <td>
-      <h3 align="center">Menú lateral desplegable</h3>
+      <h3 align="center">Paredes Trade</h3>
       <div align="center">
         <a href="https://github.com/GenaroParedes/ParedesTrade" target="_blank">
           <img src="https://raw.githubusercontent.com/GenaroParedes/ParedesTrade/refs/heads/main/assets/images/LogoParedesTradee.jpg" width="400" alt="Proyecto Paredes Trade">
@@ -73,7 +73,7 @@
             <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=3fFD7f">
           </a>
         </p>
-        <p>Página responsive con menú desplegable para desktop y con barra lateral para mobile</p>
+        <p>Pagina para empresa de venta de autos, motos, casas, departamentos y lotes</p>
       </div>
     </td>
   </tr>
