@@ -63,7 +63,7 @@
       <h3 align="center">Menú lateral desplegable</h3>
       <div align="center">
         <a href="https://github.com/GenaroParedes/ParedesTrade" target="_blank">
-          <img src="https://raw.githubusercontent.com/GenaroParedes/ParedesTrade/refs/heads/main/assets/images/LogoOpcion2.avif" width="400" alt="Proyecto Paredes Trade">
+          <img src="https://raw.githubusercontent.com/GenaroParedes/ParedesTrade/refs/heads/main/assets/images/LogoParedesTradee.jpg" width="400" alt="Proyecto Paredes Trade">
         </a>
         <p>
           <a href="https://github.com/GenaroParedes/ParedesTrade" target="_blank">
