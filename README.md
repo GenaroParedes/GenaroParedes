@@ -102,7 +102,7 @@
       <h3 align="center">CasaBronte</h3>
       <div align="center">
         <a href="https://github.com/GenaroParedes/casaBronte/tree/master" target="_blank">
-          <img src="https://github.com/GenaroParedes/casaBronte/blob/master/images/CasaBrontePerfil.png" width="400" height="350" alt="Proyecto menú lateral desplegable">
+          <img src="https://github.com/GenaroParedes/casaBronte/blob/master/images/CasaBrontePerfil.png" width="500" height="350" alt="Proyecto E-Commerce">
         </a>
         <p>
           <a href="https://github.com/GenaroParedes/casaBronte/tree/master" target="_blank">
