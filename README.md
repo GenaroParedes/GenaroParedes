@@ -99,20 +99,20 @@
       </div>
     </td>
     <td>
-      <h3 align="center">Turnero Veterinaria</h3>
+      <h3 align="center">CasaBronte</h3>
       <div align="center">
-        <a href="https://github.com/GenaroParedes/TurneroVeterinaria" target="_blank">
-          <img src="https://i.pinimg.com/564x/e9/72/ef/e972ef1ec07485bb0d807fceca6d2715.jpg" width="400" height="350" alt="Proyecto menú lateral desplegable">
+        <a href="https://github.com/GenaroParedes/casaBronte/tree/master" target="_blank">
+          <img src="https://github.com/GenaroParedes/casaBronte/blob/master/images/CasaBrontePerfil.png" width="400" height="350" alt="Proyecto menú lateral desplegable">
         </a>
         <p>
-          <a href="https://github.com/GenaroParedes/TurneroVeterinaria" target="_blank">
+          <a href="https://github.com/GenaroParedes/casaBronte/tree/master" target="_blank">
             <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="https://turneroveterinaria.netlify.app/" target="_blank">
+          <a href="https://casabronte.netlify.app/" target="_blank">
             <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=3fFD7f">
           </a>
         </p>
-        <p>CRUD de turnos de mascotas para veterinaria trabajando con la base de datos del navegador IndexedDB</p>
+        <p>E-commerce - HTML, CSS, JavaScript</p>
       </div>
     </td>
   </tr>
