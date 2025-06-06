@@ -118,6 +118,45 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <h3 align="center">Cotizador Criptomonedas</h3>
+      <div align="center">
+        <a href="https://github.com/GenaroParedes/Cotizador-Criptomonedas" target="_blank">
+          <img src="https://github.com/GenaroParedes/Cotizador-Criptomonedas/blob/master/img/cryptomonedas.png" width="400" height="250" alt="Proyecto Cotizador Criptomonedas">
+        </a>
+        <p>
+          <a href="https://github.com/GenaroParedes/Cotizador-Criptomonedas" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://cotizadorcriptomonedass.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=fbfc40">
+          </a>
+        </p>
+        <p>Cotizador de Criptomonedas consumiendo la API CoinDesk</p>
+      </div>
+    </td>
+    <td>
+      <h3 align="center">CasaBronte</h3>
+      <div align="center">
+        <a href="https://github.com/GenaroParedes/casaBronte/tree/master" target="_blank">
+          <img src="https://github.com/GenaroParedes/casaBronte/blob/master/images/CasaBrontePerfil.png" width="500" height="350" alt="Proyecto E-Commerce">
+        </a>
+        <p>
+          <a href="https://github.com/GenaroParedes/casaBronte/tree/master" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://casabronte.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=3fFD7f">
+          </a>
+        </p>
+        <p>E-commerce - HTML, CSS, JavaScript</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 
 </div>
