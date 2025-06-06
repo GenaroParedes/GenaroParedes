@@ -141,7 +141,7 @@
       <h3 align="center">Veterinaria</h3>
       <div align="center">
         <a href="https://github.com/GenaroParedes/CotizadosPrestamos" target="_blank">
-          <img src="https://github.com/GenaroParedes/TurneroVeterinaria/blob/master/img/VetPerfil.png" width="500" height="350" alt="Proyecto E-Commerce">
+          <img src="https://github.com/GenaroParedes/TurneroVeterinaria/blob/master/img/VetPerfil.png" width="400" height="350" alt="Proyecto E-Commerce">
         </a>
         <p>
           <a href="https://github.com/GenaroParedes/CotizadosPrestamos" target="_blank">
