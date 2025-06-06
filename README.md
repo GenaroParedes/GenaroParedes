@@ -140,14 +140,14 @@
     <td>
       <h3 align="center">Veterinaria</h3>
       <div align="center">
-        <a href="https://github.com/GenaroParedes/CotizadosPrestamos" target="_blank">
-          <img src="https://github.com/GenaroParedes/TurneroVeterinaria/blob/master/img/VetPerfil.png" width="400" height="350" alt="Proyecto E-Commerce">
+        <a href="https://github.com/GenaroParedes/TurneroVeterinaria" target="_blank">
+          <img src="https://github.com/GenaroParedes/TurneroVeterinaria/blob/master/img/VetPerfil.png" width="400" height="350" alt="Proyecto Veterinaria">
         </a>
         <p>
-          <a href="https://github.com/GenaroParedes/CotizadosPrestamos" target="_blank">
+          <a href="https://github.com/GenaroParedes/TurneroVeterinaria" target="_blank">
             <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="https://cotizadorprestamoswitchreactjs.netlify.app/" target="_blank">
+          <a href="https://pacientesveterinariajs.netlify.app/" target="_blank">
             <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=3fFD7f">
           </a>
         </p>
