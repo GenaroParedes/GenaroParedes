@@ -138,20 +138,20 @@
       </div>
     </td>
     <td>
-      <h3 align="center">CasaBronte</h3>
+      <h3 align="center">Cotizador de prestamos</h3>
       <div align="center">
-        <a href="https://github.com/GenaroParedes/casaBronte/tree/master" target="_blank">
-          <img src="https://github.com/GenaroParedes/casaBronte/blob/master/images/CasaBrontePerfil.png" width="500" height="350" alt="Proyecto E-Commerce">
+        <a href="https://github.com/GenaroParedes/CotizadosPrestamos" target="_blank">
+          <img src="https://github.com/GenaroParedes/TurneroVeterinaria/blob/master/img/VetPerfil.png" width="500" height="350" alt="Proyecto E-Commerce">
         </a>
         <p>
-          <a href="https://github.com/GenaroParedes/casaBronte/tree/master" target="_blank">
+          <a href="https://github.com/GenaroParedes/CotizadosPrestamos" target="_blank">
             <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="https://casabronte.netlify.app/" target="_blank">
+          <a href="https://cotizadorprestamoswitchreactjs.netlify.app/" target="_blank">
             <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=3fFD7f">
           </a>
         </p>
-        <p>E-commerce - HTML, CSS, JavaScript</p>
+        <p>Cotizador de prestamos con React</p>
       </div>
     </td>
   </tr>
