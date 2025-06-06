@@ -138,7 +138,7 @@
       </div>
     </td>
     <td>
-      <h3 align="center">Cotizador de prestamos</h3>
+      <h3 align="center">Veterinaria</h3>
       <div align="center">
         <a href="https://github.com/GenaroParedes/CotizadosPrestamos" target="_blank">
           <img src="https://github.com/GenaroParedes/TurneroVeterinaria/blob/master/img/VetPerfil.png" width="500" height="350" alt="Proyecto E-Commerce">
@@ -151,7 +151,7 @@
             <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=3fFD7f">
           </a>
         </p>
-        <p>Cotizador de prestamos con React</p>
+        <p>Turnero de Veterinaria - Utilizando IndexDB</p>
       </div>
     </td>
   </tr>
