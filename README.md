@@ -40,120 +40,105 @@
 </div>
 <br>
 
-<h2>📊 Proyectos</h2>
-<table>
+<h2 align="center">📊 Proyectos</h2>
+
+<table align="center">
   <tr>
-    <td>
-      <h3 align="center">Carrito de compras</h3>
-      <div align="center">
+    <td align="center" valign="top" width="50%" style="padding: 10px;">
+      <h3>Carrito de compras</h3>
+      <a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank">
+        <img src="https://res.cloudinary.com/dte7upwcr/image/upload/v1/blog/blog2/carrito-de-compras-ecommerce/carrito-de-compras-ecommerce-img_header.jpg" width="400" height="250" alt="Proyecto Carrito de compras">
+      </a>
+      <p>
         <a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank">
-          <img src="https://res.cloudinary.com/dte7upwcr/image/upload/v1/blog/blog2/carrito-de-compras-ecommerce/carrito-de-compras-ecommerce-img_header.jpg" width="400" height="250" alt="Proyecto Carrito de compras">
+          <img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
         </a>
-        <p>
-          <a href="https://github.com/GenaroParedes/CarritoCompras" target="_blank">
-            <img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <a href="https://carritocomprasjavascript.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=fbfc40">
-          </a>
-        </p>
-        <p>Carrito de compras realizado con HTML, CSS y JavaScript con la persistencia de datos de localStorage</p>
-      </div>
+        <a href="https://carritocomprasjavascript.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=fbfc40">
+        </a>
+      </p>
+      <p>Carrito de compras realizado con HTML, CSS y JavaScript con persistencia en localStorage</p>
     </td>
-    <td>
-      <h3 align="center">Paredes Trade</h3>
-      <div align="center">
+    <td align="center" valign="top" width="50%" style="padding: 10px;">
+      <h3>Paredes Trade</h3>
+      <a href="https://github.com/GenaroParedes/ParedesTrade" target="_blank">
+        <img src="https://raw.githubusercontent.com/GenaroParedes/ParedesTrade/refs/heads/main/assets/images/LogoParedesTradee.jpg" width="400" height="250" alt="Proyecto Paredes Trade">
+      </a>
+      <p>
         <a href="https://github.com/GenaroParedes/ParedesTrade" target="_blank">
-          <img src="https://raw.githubusercontent.com/GenaroParedes/ParedesTrade/refs/heads/main/assets/images/LogoParedesTradee.jpg" width="400" alt="Proyecto Paredes Trade">
+          <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
         </a>
-        <p>
-          <a href="https://github.com/GenaroParedes/ParedesTrade" target="_blank">
-            <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <a href="https://paredes-trade.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=3fFD7f">
-          </a>
-        </p>
-        <p>Pagina para empresa de venta de autos, motos, casas, departamentos y lotes</p>
-      </div>
+        <a href="https://paredes-trade.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=3fFD7f">
+        </a>
+      </p>
+      <p>Empresa de venta de autos, motos, casas, departamentos y lotes</p>
     </td>
   </tr>
-</table>
 
-<table>
   <tr>
-    <td>
-      <h3 align="center">CRUD Clientes</h3>
-      <div align="center">
+    <td align="center" valign="top" style="padding: 10px;">
+      <h3>CRUD Clientes</h3>
+      <a href="https://github.com/GenaroParedes/CrudClientes" target="_blank">
+        <img src="https://mercadoonlinedigital.com/wp-content/uploads/2023/08/crud.png" width="400" height="250" alt="Proyecto CRUD clientes">
+      </a>
+      <p>
         <a href="https://github.com/GenaroParedes/CrudClientes" target="_blank">
-          <img src="https://mercadoonlinedigital.com/wp-content/uploads/2023/08/crud.png" width="400" height="250" alt="Proyecto CRUD clientes">
+          <img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
         </a>
-        <p>
-          <a href="https://github.com/GenaroParedes/CrudClientes" target="_blank">
-            <img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <a href="https://crudclientesindexeddb.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=fbfc40">
-          </a>
-        </p>
-        <p>CRUD Clientes trabajando con HTML, CSS(TailwindCSS), JavaScript, como base de datos utilicé IndexedDB del navegador</p>
-      </div>
+        <a href="https://crudclientesindexeddb.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=fbfc40">
+        </a>
+      </p>
+      <p>CRUD usando HTML, TailwindCSS, JavaScript e IndexedDB</p>
     </td>
-    <td>
-      <h3 align="center">CasaBronte</h3>
-      <div align="center">
+    <td align="center" valign="top" style="padding: 10px;">
+      <h3>CasaBronte</h3>
+      <a href="https://github.com/GenaroParedes/casaBronte/tree/master" target="_blank">
+        <img src="https://github.com/GenaroParedes/casaBronte/blob/master/images/CasaBrontePerfil.png" width="400" height="250" alt="Proyecto CasaBronte">
+      </a>
+      <p>
         <a href="https://github.com/GenaroParedes/casaBronte/tree/master" target="_blank">
-          <img src="https://github.com/GenaroParedes/casaBronte/blob/master/images/CasaBrontePerfil.png" width="500" height="350" alt="Proyecto E-Commerce">
+          <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
         </a>
-        <p>
-          <a href="https://github.com/GenaroParedes/casaBronte/tree/master" target="_blank">
-            <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <a href="https://casabronte.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=3fFD7f">
-          </a>
-        </p>
-        <p>E-commerce - HTML, CSS, JavaScript</p>
-      </div>
+        <a href="https://casabronte.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=3fFD7f">
+        </a>
+      </p>
+      <p>E-commerce - HTML, CSS, JavaScript</p>
     </td>
   </tr>
-</table>
 
-<table>
   <tr>
-    <td>
-      <h3 align="center">Cotizador Criptomonedas</h3>
-      <div align="center">
+    <td align="center" valign="top" style="padding: 10px;">
+      <h3>Cotizador Criptomonedas</h3>
+      <a href="https://github.com/GenaroParedes/Cotizador-Criptomonedas" target="_blank">
+        <img src="https://github.com/GenaroParedes/Cotizador-Criptomonedas/blob/master/img/cryptomonedas.png" width="400" height="250" alt="Proyecto Cotizador Criptomonedas">
+      </a>
+      <p>
         <a href="https://github.com/GenaroParedes/Cotizador-Criptomonedas" target="_blank">
-          <img src="https://github.com/GenaroParedes/Cotizador-Criptomonedas/blob/master/img/cryptomonedas.png" width="400" height="250" alt="Proyecto Cotizador Criptomonedas">
+          <img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
         </a>
-        <p>
-          <a href="https://github.com/GenaroParedes/Cotizador-Criptomonedas" target="_blank">
-            <img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <a href="https://cotizadorcriptomonedass.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=fbfc40">
-          </a>
-        </p>
-        <p>Cotizador de Criptomonedas consumiendo la API CoinDesk</p>
-      </div>
+        <a href="https://cotizadorcriptomonedass.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=fbfc40">
+        </a>
+      </p>
+      <p>Cotizador de Criptomonedas consumiendo la API CoinDesk</p>
     </td>
-    <td>
-      <h3 align="center">Veterinaria</h3>
-      <div align="center">
+    <td align="center" valign="top" style="padding: 10px;">
+      <h3>Veterinaria</h3>
+      <a href="https://github.com/GenaroParedes/TurneroVeterinaria" target="_blank">
+        <img src="https://github.com/GenaroParedes/TurneroVeterinaria/blob/master/img/VetPerfil.png" width="400" height="250" alt="Proyecto Veterinaria">
+      </a>
+      <p>
         <a href="https://github.com/GenaroParedes/TurneroVeterinaria" target="_blank">
-          <img src="https://github.com/GenaroParedes/TurneroVeterinaria/blob/master/img/VetPerfil.png" width="400" height="350" alt="Proyecto Veterinaria">
+          <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
         </a>
-        <p>
-          <a href="https://github.com/GenaroParedes/TurneroVeterinaria" target="_blank">
-            <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <a href="https://pacientesveterinariajs.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=3fFD7f">
-          </a>
-        </p>
-        <p>Turnero de Veterinaria - Utilizando IndexDB</p>
-      </div>
+        <a href="https://pacientesveterinariajs.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge&color=3fFD7f">
+        </a>
+      </p>
+      <p>Turnero de Veterinaria - Utilizando IndexDB</p>
     </td>
   </tr>
 </table>
