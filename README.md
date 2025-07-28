@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge">
+<img src="https://img.shields.io/badge/Astro-0052CC?style=for-the-badge&logo=astro&logoColor=white" alt="Astro Badge">
 </div>
 
 <br>
